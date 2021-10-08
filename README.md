@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning ... BASH, Automation and Redhat Ansible
 - 💞️ I’m looking to collaborate on ... global projects
 - 📫 How to reach me ... contact me on my email dan.delatorre@linux.com
+- Most of my repositories are private, because I signed an NDA with my clients.
+
 
 <!---
 dbdtorre/dbdtorre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
